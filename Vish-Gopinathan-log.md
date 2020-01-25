@@ -7,11 +7,30 @@ social media acct (optional): ____________
 
 
 assignment/project title: Assignment 1
-time estimate: ___________________________
+time estimate: 10 Hours
 
-date/time: Jan 21 1:30 PM
+date/time: Wednesday Jan 22 1:30 PM
 place: West H 102
 goal: Get Acquainted, make plan for completing assignment
+notes: finished array.h
+duration: 2 Hours
+NEXT :Planned to meet Wednesday Jan 22
+
+date/time: Thursday Jan 23 4 PM
+place: Google hangouts
+goal: Implementing and debugging sorer
+notes: Implementing and debugging sorer
+duration: 1 Hours
+NEXT :Planned to meet After class on friday
+
+date/time: Friday Jan 24 3:15 PM
+place: WVH102
+goal: Implementing and debugging sorer submitting assignment
 notes:
-duration: ________________________________
-NEXT : (date/time/place of next meeting)
+duration: 4:45
+NEXT :-
+
+actual time needed: 10 ish
+outstanding issues: Debugging
+
+
