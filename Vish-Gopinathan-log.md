@@ -33,4 +33,34 @@ NEXT :-
 actual time needed: 10 ish
 outstanding issues: Debugging
 
+assignment/project title: Assignment 2
+time estimate: 15 Hours
 
+date/time: Thursday Jan 30 12:00 PM
+place: West H 102
+goal: Have plans to implement all threee data structures, organization
+notes: Array is largely implemented, Map is also largely implemented
+duration: 4 Hours
+NEXT :Planned to meet Friday Jan 31
+
+date/time: Friday Jan 31 12 PM
+place: WVH 102
+goal: Finish 
+notes: spend a lot of time fixing bugs in code, making sure everything passes the tests. Unable to get the make file to work.  
+duration: 8 Hours
+NEXT :Planned to meet Monday
+
+
+actual time needed: 15+ hours
+outstanding issues: Make File
+
+
+assignment/project title: Assignment 3
+time estimate: 15 Hours
+
+date/time: Monday February 3, 4:30 PM
+place: West H 102
+goal: make plan for the assignment
+notes: decided we would do three each for part 1 before next meeting. 
+duration: 1 Hours
+NEXT :Planned to meet Wednesday Feb 5
