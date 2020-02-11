@@ -15,6 +15,24 @@ notes: decided we would do three each for part 1 before next meeting.
 duration: 1 Hours
 NEXT :Planned to meet Wednesday Feb 5
 
+date/time: Wednesday February 5, 4:30 PM
+place: West H 102
+goal: make test files, start testing
+notes:  
+duration: 2 Hours
+NEXT :Planned to meet Friday Feb 7
+
+date/time: Wednesday February 5, 2:00 PM
+place: West H 102
+goal: Finish assignment
+notes:  
+duration: 4 Hours
+NEXT :
+
+actual time needed: ~15 hours
+outstanding issues: None
+
+
 
 ### assignment/project title: Assignment 2
 time estimate: 15 Hours
