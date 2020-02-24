@@ -5,6 +5,48 @@ email address: ma.yiw@husky.neu.edu
 social media acct (optional): ____________
 
 
+PARTNER INFORMATION
+name: Omkar Brahme
+cell: (857) 869-2568
+email address: ma.yiw@husky.neu.edu
+social media acct (optional): ____________
+
+
+
+### assignment/project title: Assignment 5
+time estimate: 20+ Hours
+
+date/time: Tuesday February 18, 7 PM
+place: Lightview
+goal: make plan for the assignment, decide which code base to use, begin refactoring and fixing code
+notes: Looked through assignment, pulled starter code, began implementing. I was still running a fever at this point. 
+duration: ~3 Hours
+NEXT :Planned to meet Wednesday Feb 19
+
+date/time: Wednesday February 19, 4:30 PM
+place: West H 102 & Lightview
+goal: Continue the assignment, try to complete refactoring and begin the networks section. 
+notes: A significant portion of this meeting was spent in trying to learn the basic concepts required to do Part 2
+duration: ~3.5 Hours.
+NEXT :Planned to meet Thursday Feb 20
+
+date/time: Thursday February 20, 3:15 PM
+place: West H 102 & Lightview
+goal: Continue Working, finish the refactoring of part 1. Set up all of part two to get ready to do the memo.  
+notes:  Unable to fully finish part one, we kept getting stuck. Part two was working for one client but not for multiple. 
+duration: 6 Hours
+NEXT : Friday Feb 14th 3:15
+
+date/time: Friday February 14, 3:00 PM
+place: Lightview
+goal: Continue Working & Finish assignment
+notes: We eventually gave up on trying to fix part 2 and just wrote the memo based on what we had. For Part one we were unable to get the code running so we could not do the analysis needed, but we were able to put something together for the memo based on our understandings. 
+duration: 5 Hours
+NEXT : 
+
+actual time needed: ~ 20 hours together, several more hours working independently, I worked on part 2  and Omkar on part 1. 
+outstanding issues: Code for part 1 did not compile or run, code for part two was only functional for one client, and did not actually process the passed in IP address. 
+
 ### assignment/project title: Assignment 4
 time estimate: 20 Hours
 
