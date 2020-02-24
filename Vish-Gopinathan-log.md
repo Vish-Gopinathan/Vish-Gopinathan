@@ -7,8 +7,8 @@ social media acct (optional): ____________
 
 PARTNER INFORMATION
 name: Omkar Brahme
-cell: (857) 869-2568
-email address: ma.yiw@husky.neu.edu
+cell: (404) 805-6638
+email address: brahme.o@husky.neu.edu
 social media acct (optional): ____________
 
 
